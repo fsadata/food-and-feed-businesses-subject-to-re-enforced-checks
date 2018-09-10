@@ -1,18 +1,18 @@
-BUSName,BUSStreetName,BUSPostalCode,BUSCityName,BUSCode,COM_GRPName,BUSCountryCode,BUSCountryName
+﻿BUSName,BUSStreetName,BUSPostalCode,BUSCityName,BUSCode,COM_GRPName,BUSCountryCode,BUSCountryName
 Sarl Es-Saada,"65, rue Colonel Lotfi",Maghnia,Tlemcen,13417,Sulphites group: crustaceans,DZ,Algeria
-Sarl La Calle Fresh Fish Export,"Route de la p?pini?re n?04, El Kala ",El kala,El Taref,36427,"heavy metals susceptible fish, molluscs, crustaceans",DZ,Algeria
+Sarl La Calle Fresh Fish Export,"Route de la pépinière n°04, El Kala ",El kala,El Taref,36427,"heavy metals susceptible fish, molluscs, crustaceans",DZ,Algeria
 Sarl Muskaten,"01, Quai d?Arcachon port d?Alger",Alger,Alger,16404,"heavy metals susceptible fish, molluscs, crustaceans",DZ,Algeria
-CA?ADAS SRL,"REPUBLICA DEL LIBANO 4279, QUILMES",Quilmes,Buenos Aires,4061,Dog chews,AR,Argentina
-Euro S.A.,Saenz Pe?a 1595,Villa Gobernador Galvez,Santa Fe,4592,Dog chews,AR,Argentina
+CAÑADAS SRL,"REPUBLICA DEL LIBANO 4279, QUILMES",Quilmes,Buenos Aires,4061,Dog chews,AR,Argentina
+Euro S.A.,Saenz Peña 1595,Villa Gobernador Galvez,Santa Fe,4592,Dog chews,AR,Argentina
 Granja Tres Arroyos S.A.,.,Concepcion Del Uruguay,Entre Rios,1610,Poultry meat preparations,AR,Argentina
 Las Camelias S.A.,.,San Jose,Entre Rios,2589,Poultry meat preparations,AR,Argentina
-NABADI S.R.L.,"RUTA N?1 KM 83,5",General Pico,La Pampa,3295,"Flours, meals and pellets, CN 2301 and 230990",AR,Argentina
-Agricola Jandelle S.A.,"Rod 369 km 178, S/N?",Rolandia,Paran?,1215,Poultry meat preparations,BR,Brazil
-AVENORTE AVICOLA CIANORTE LTDA,.,Cianorte,Paran?,4232,Poultry meat preparations,BR,Brazil
+NABADI S.R.L.,"RUTA Nº1 KM 83,5",General Pico,La Pampa,3295,"Flours, meals and pellets, CN 2301 and 230990",AR,Argentina
+Agricola Jandelle S.A.,"Rod 369 km 178, S/N°",Rolandia,Paraná,1215,Poultry meat preparations,BR,Brazil
+AVENORTE AVICOLA CIANORTE LTDA,.,Cianorte,Paraná,4232,Poultry meat preparations,BR,Brazil
 BELLO ALIMENTOS LTDA,.,Itaquirai,Mato Grosso do Sul,3409,Poultry meat preparations,BR,Brazil
-BRF S. A.,ROD. BR 060 KM 394 S/N? BAIRRO: SETOR INDUSTRIAL,Rio Verde,Goias,1001,Fresh poultry meat,BR,Brazil
-BRF S. A.,"Rod. RS 324, S/N?, Km 76",Marau,Rio Grande do Sul,2014,Fresh poultry meat,BR,Brazil
-BRF S. A.,"Rod. RS 324, S/N?, Km 76",Marau,Rio Grande do Sul,2014,Fresh poultry meat,BR,Brazil
+BRF S. A.,ROD. BR 060 KM 394 S/N° BAIRRO: SETOR INDUSTRIAL,Rio Verde,Goias,1001,Fresh poultry meat,BR,Brazil
+BRF S. A.,"Rod. RS 324, S/N°, Km 76",Marau,Rio Grande do Sul,2014,Fresh poultry meat,BR,Brazil
+BRF S. A.,"Rod. RS 324, S/N°, Km 76",Marau,Rio Grande do Sul,2014,Fresh poultry meat,BR,Brazil
 BRF S. A.,Rua Senador Atilio Fontana 86 Bairro: Centro,Concordia,Santa Catarina,1,MM (minced meat and meat preparations),BR,Brazil
 BRF S. A.,Av Arthur Oscar 1706,Serafina Correa,Rio Grande do Sul,103,MM (minced meat and meat preparations),BR,Brazil
 BRF S. A.,"Rod. GO 341, Km 2,5",Mineiros,Goias,1010,MM (minced meat and meat preparations),BR,Brazil
@@ -23,48 +23,48 @@ BRF S. A.,Av Arthur Oscar 1706,Serafina Correa,Rio Grande do Sul,103,PM (fresh m
 BRF S. A.,"AV. SENADOR ATTILIO FRANCISCO XAVIER FONTANA, 600-E BAIRRO:ENGENHO BRAUN",Chapeco,Santa Catarina,104,PM (fresh meat of poultry and lagomorphs),BR,Brazil
 BRF S. A.,"AV. SENADOR ATTILIO FRANCISCO XAVIER FONTANA, 600-E BAIRRO:ENGENHO BRAUN",Chapeco,Santa Catarina,104,PM (fresh meat of poultry and lagomorphs),BR,Brazil
 BRF S. A.,"Ac Cidade Alta, 4700",Capinzal,Santa Catarina,466,Poultry meat preparations,BR,Brazil
-BRF S. A.,"Av. Senador Atilio Fontana, 4040",Toledo,Paran?,716,Poultry meat preparations,BR,Brazil
-BRF S. A.,ROD. BR 060 KM 394 S/N? BAIRRO: SETOR INDUSTRIAL,Rio Verde,Goias,1001,Poultry meat preparations,BR,Brazil
-BRF S. A.,"Rod. RS 324, S/N?, Km 76",Marau,Rio Grande do Sul,2014,Poultry meat preparations,BR,Brazil
+BRF S. A.,"Av. Senador Atilio Fontana, 4040",Toledo,Paraná,716,Poultry meat preparations,BR,Brazil
+BRF S. A.,ROD. BR 060 KM 394 S/N° BAIRRO: SETOR INDUSTRIAL,Rio Verde,Goias,1001,Poultry meat preparations,BR,Brazil
+BRF S. A.,"Rod. RS 324, S/N°, Km 76",Marau,Rio Grande do Sul,2014,Poultry meat preparations,BR,Brazil
 BRF S. A.,"Ac Cidade Alta, 4700",Capinzal,Santa Catarina,466,RPM (meat products),BR,Brazil
-BRF S. A.,"Av. Senador Atilio Fontana, 4040",Toledo,Paran?,716,RPM (meat products),BR,Brazil
+BRF S. A.,"Av. Senador Atilio Fontana, 4040",Toledo,Paraná,716,RPM (meat products),BR,Brazil
 BRF S. A.,"AV. SENADOR ATTILIO FRANCISCO XAVIER FONTANA, 600-E BAIRRO:ENGENHO BRAUN",Chapeco,Santa Catarina,104,RPM (meat products),BR,Brazil
-BRF S. A.,"Rod. RS 324, S/N?, Km 76",Marau,Rio Grande do Sul,2014,RPM (meat products),BR,Brazil
-BRF S. A. ,AV. 04 S/n?   QUADRA 13 BAIRRO: PARQUE INDUSTRIAL ,Dourados,Mato Grosso do Sul,18,MM (minced meat and meat preparations),BR,Brazil
-BRF S. A. ,AV. 04 S/n?   QUADRA 13 BAIRRO: PARQUE INDUSTRIAL ,Dourados,Mato Grosso do Sul,18,PM (fresh meat of poultry and lagomorphs),BR,Brazil
-BRF S. A. ,AV. 04 S/n?   QUADRA 13 BAIRRO: PARQUE INDUSTRIAL ,Dourados,Mato Grosso do Sul,18,PM (fresh meat of poultry and lagomorphs),BR,Brazil
-C. Vale - Cooperativa Agroindustrial,.,Palotina,Paran?,3300,Poultry meat preparations,BR,Brazil
-COASUL Cooperativa Agroindustrial,.,Sao Joao,Paran?,802,Poultry meat preparations,BR,Brazil
-Coopavel - Cooperativa Agroindustrial,BR 277 - Km 582,Cascavel,Paran?,3887,Poultry meat preparations,BR,Brazil
-Cooperativa Agroindustrial - Copagril,"RODOVIA PR 467 KM 26,1 S/N BAIRRO: CENTRO",Marechal C?ndido Rondon,Paran?,797,Poultry meat preparations,BR,Brazil
-Copacol-Cooperativa Agroindustrial Consolata,"Rua Desembargador Munhoz, S/N",Cafelandia,Paran?,516,Poultry meat preparations,BR,Brazil
-Goncalves & Tortola S/A,.,Maringa,Paran?,4166,Poultry meat preparations,BR,Brazil
-IMS BRAZIL LTDA,"Rua Armendio Ferraz de Abreu, 229 - Barirro: Uni?o",Estancia Velha,Rio Grande do Sul,229,Dog chews,BR,Brazil
-IMS BRAZIL LTDA,"Rua Armendio Ferraz de Abreu, 229 - Barirro: Uni?o",Estancia Velha,Rio Grande do Sul,229,Dog chews,BR,Brazil
+BRF S. A.,"Rod. RS 324, S/N°, Km 76",Marau,Rio Grande do Sul,2014,RPM (meat products),BR,Brazil
+BRF S. A. ,AV. 04 S/nº   QUADRA 13 BAIRRO: PARQUE INDUSTRIAL ,Dourados,Mato Grosso do Sul,18,MM (minced meat and meat preparations),BR,Brazil
+BRF S. A. ,AV. 04 S/nº   QUADRA 13 BAIRRO: PARQUE INDUSTRIAL ,Dourados,Mato Grosso do Sul,18,PM (fresh meat of poultry and lagomorphs),BR,Brazil
+BRF S. A. ,AV. 04 S/nº   QUADRA 13 BAIRRO: PARQUE INDUSTRIAL ,Dourados,Mato Grosso do Sul,18,PM (fresh meat of poultry and lagomorphs),BR,Brazil
+C. Vale - Cooperativa Agroindustrial,.,Palotina,Paraná,3300,Poultry meat preparations,BR,Brazil
+COASUL Cooperativa Agroindustrial,.,Sao Joao,Paraná,802,Poultry meat preparations,BR,Brazil
+Coopavel - Cooperativa Agroindustrial,BR 277 - Km 582,Cascavel,Paraná,3887,Poultry meat preparations,BR,Brazil
+Cooperativa Agroindustrial - Copagril,"RODOVIA PR 467 KM 26,1 S/N BAIRRO: CENTRO",Marechal Cándido Rondon,Paraná,797,Poultry meat preparations,BR,Brazil
+Copacol-Cooperativa Agroindustrial Consolata,"Rua Desembargador Munhoz, S/N",Cafelandia,Paraná,516,Poultry meat preparations,BR,Brazil
+Goncalves & Tortola S/A,.,Maringa,Paraná,4166,Poultry meat preparations,BR,Brazil
+IMS BRAZIL LTDA,"Rua Armendio Ferraz de Abreu, 229 - Barirro: União",Estancia Velha,Rio Grande do Sul,229,Dog chews,BR,Brazil
+IMS BRAZIL LTDA,"Rua Armendio Ferraz de Abreu, 229 - Barirro: União",Estancia Velha,Rio Grande do Sul,229,Dog chews,BR,Brazil
 JBS Aves Ltda,"Rua Felipe Muliterno 505, Bairro: Vila Matos, CEP: 99.060-000",Passo Fundo,Rio Grande do Sul,922,Poultry meat preparations,BR,Brazil
 JBS S/A,Rodovia GO 164,Mozarlandia,Goias,4507,"Meat product, CN 0504",BR,Brazil
-LAR COOPERATIVA AGROINDUSTRIAL,"BR 277, Km 653 BAIRRO: DISTRITO DE AGROCAFEEIRA",Matelandia,Paran?,4444,Poultry meat preparations,BR,Brazil
-M.A. DE LIMA LOIOLA,"AV JOSE GIFFONI DA SILVEIRA, 2100 - RODAGEM",Acara?,Cear?,2674,Sulphites group: crustaceans,BR,Brazil
-MAST PET IND. E COMERCIO DE PRODUTOS PARA ANIMAIS LTDA,"EST. COROADOS KM 01, BARRACAO I - BAIRRO: PATRIMONIO SELVA",Londrina,Paran?,3082,"Petfood, CN 230910",BR,Brazil
-MINERVA S. A.,"AV. JULIO MULLER 1650, ALA 2 BAIRRO: ALAMEDA",V?rzea Grande,Mato Grosso,2015,MM (minced meat and meat preparations),BR,Brazil
-PIRAP? PARTICIPA??ES LTDA,.,Santa Fe,Paran?,4701,Horse meat,BR,Brazil
-QUANTO ALIMENTOS IND?STRIA E COM?RCIO LTDA,"RUA VISCONDE DE S?O LEOPOLDO, 545 BAIRRO: VICENTINA",Sao Leopoldo,Rio Grande do Sul,3766,Dog chews,BR,Brazil
-QUANTO ALIMENTOS IND?STRIA E COM?RCIO LTDA,"RUA VISCONDE DE S?O LEOPOLDO, 545 BAIRRO: VICENTINA",Sao Leopoldo,Rio Grande do Sul,3766,Dog chews,BR,Brazil
-R. R. IND?STRIA E COM?RCIO LTDA,"RUA S?O DOMINGOS,  500 BAIRRO: QUINTAS",Natal,Rio Grande do Norte,4154,Unique Commodity Code Group for  05119910,BR,Brazil
+LAR COOPERATIVA AGROINDUSTRIAL,"BR 277, Km 653 BAIRRO: DISTRITO DE AGROCAFEEIRA",Matelandia,Paraná,4444,Poultry meat preparations,BR,Brazil
+M.A. DE LIMA LOIOLA,"AV JOSE GIFFONI DA SILVEIRA, 2100 - RODAGEM",Acaraú,Ceará,2674,Sulphites group: crustaceans,BR,Brazil
+MAST PET IND. E COMERCIO DE PRODUTOS PARA ANIMAIS LTDA,"EST. COROADOS KM 01, BARRACAO I - BAIRRO: PATRIMONIO SELVA",Londrina,Paraná,3082,"Petfood, CN 230910",BR,Brazil
+MINERVA S. A.,"AV. JULIO MULLER 1650, ALA 2 BAIRRO: ALAMEDA",Várzea Grande,Mato Grosso,2015,MM (minced meat and meat preparations),BR,Brazil
+PIRAPÓ PARTICIPAÇÕES LTDA,.,Santa Fe,Paraná,4701,Horse meat,BR,Brazil
+QUANTO ALIMENTOS INDÚSTRIA E COMÉRCIO LTDA,"RUA VISCONDE DE SÃO LEOPOLDO, 545 BAIRRO: VICENTINA",Sao Leopoldo,Rio Grande do Sul,3766,Dog chews,BR,Brazil
+QUANTO ALIMENTOS INDÚSTRIA E COMÉRCIO LTDA,"RUA VISCONDE DE SÃO LEOPOLDO, 545 BAIRRO: VICENTINA",Sao Leopoldo,Rio Grande do Sul,3766,Dog chews,BR,Brazil
+R. R. INDÚSTRIA E COMÉRCIO LTDA,"RUA SÃO DOMINGOS,  500 BAIRRO: QUINTAS",Natal,Rio Grande do Norte,4154,Unique Commodity Code Group for  05119910,BR,Brazil
 Sao Salvador Alimentos S/A,ROD. GO 156 KM ZONA RURAL,Itaberai,Goias,3404,Poultry meat preparations,BR,Brazil
-SEARA ALIMENTOS LTDA,"Rod. Waldyr Canevari, Km 6",Nuporanga,S?o Paulo,2485,MM (minced meat and meat preparations),BR,Brazil
-SEARA ALIMENTOS LTDA,Rod. Raposo Tavares Km 177,Itapetininga,S?o Paulo,4430,MM (minced meat and meat preparations),BR,Brazil
-SEARA ALIMENTOS LTDA,"ROD BR-487 SAIDA P/ CRUZEIRO DO OESTE, S/N?,  KM 185.7 EST. BOIADEIRA LOTE A PARTE 1 NUCLEO RIO, 23 - AREA URBANIZADA II",Campo Mourao,Paran?,2694,PM (fresh meat of poultry and lagomorphs),BR,Brazil
-SEARA ALIMENTOS LTDA,"ROD SC 281 S/N?, KM 06, PARTE 1 - COLONIA SANTANA",S?o Jos?,Santa Catarina,3742,Poultry meat preparations,BR,Brazil
-SEARA ALIMENTOS LTDA,"BR 116, S/N?  Bairro: GLEBA S?O LOUREN?O Munic?pio: ITAI?POLIS",Itaiopolis,Santa Catarina,3837,Poultry meat preparations,BR,Brazil
-SHB COMERCIO E INDUSTRIA DE ALIMENTOS S. A.,"AV. SOS PIONEIROS, 2510 - CENTRO",Carambei,Paran?,424,Fresh poultry meat,BR,Brazil
-SHB COMERCIO E INDUSTRIA DE ALIMENTOS S. A.,"AV. SOS PIONEIROS, 2510 - CENTRO",Carambei,Paran?,424,"meat and edible offal of poultry, CN 0207",BR,Brazil
-SHB COMERCIO E INDUSTRIA DE ALIMENTOS S. A.,AVENIDA ATTILIO FONTANA KM 04 S/N? BAIRRO: PINHEIRINHO,Francisco Beltrao,Paran?,2518,MM (minced meat and meat preparations),BR,Brazil
+SEARA ALIMENTOS LTDA,"Rod. Waldyr Canevari, Km 6",Nuporanga,São Paulo,2485,MM (minced meat and meat preparations),BR,Brazil
+SEARA ALIMENTOS LTDA,Rod. Raposo Tavares Km 177,Itapetininga,São Paulo,4430,MM (minced meat and meat preparations),BR,Brazil
+SEARA ALIMENTOS LTDA,"ROD BR-487 SAIDA P/ CRUZEIRO DO OESTE, S/Nº,  KM 185.7 EST. BOIADEIRA LOTE A PARTE 1 NUCLEO RIO, 23 - AREA URBANIZADA II",Campo Mourao,Paraná,2694,PM (fresh meat of poultry and lagomorphs),BR,Brazil
+SEARA ALIMENTOS LTDA,"ROD SC 281 S/Nº, KM 06, PARTE 1 - COLONIA SANTANA",São José,Santa Catarina,3742,Poultry meat preparations,BR,Brazil
+SEARA ALIMENTOS LTDA,"BR 116, S/Nº  Bairro: GLEBA SÃO LOURENÇO Município: ITAIÓPOLIS",Itaiopolis,Santa Catarina,3837,Poultry meat preparations,BR,Brazil
+SHB COMERCIO E INDUSTRIA DE ALIMENTOS S. A.,"AV. SOS PIONEIROS, 2510 - CENTRO",Carambei,Paraná,424,Fresh poultry meat,BR,Brazil
+SHB COMERCIO E INDUSTRIA DE ALIMENTOS S. A.,"AV. SOS PIONEIROS, 2510 - CENTRO",Carambei,Paraná,424,"meat and edible offal of poultry, CN 0207",BR,Brazil
+SHB COMERCIO E INDUSTRIA DE ALIMENTOS S. A.,AVENIDA ATTILIO FONTANA KM 04 S/Nº BAIRRO: PINHEIRINHO,Francisco Beltrao,Paraná,2518,MM (minced meat and meat preparations),BR,Brazil
 SHB COMERCIO E INDUSTRIA DE ALIMENTOS S. A.,"FRANCISCO BERNARDES DE ASSIS,  200 BAIRRO:JARDIM BRASILIA",Uberlandia,Minas Gerais,121,MM (minced meat and meat preparations),BR,Brazil
-SHB COMERCIO E INDUSTRIA DE ALIMENTOS S. A.,AVENIDA ATTILIO FONTANA KM 04 S/N? BAIRRO: PINHEIRINHO,Francisco Beltrao,Paran?,2518,PM (fresh meat of poultry and lagomorphs),BR,Brazil
-SHB COMERCIO E INDUSTRIA DE ALIMENTOS S. A.,AVENIDA ATTILIO FONTANA KM 04 S/N? BAIRRO: PINHEIRINHO,Francisco Beltrao,Paran?,2518,PM (fresh meat of poultry and lagomorphs),BR,Brazil
+SHB COMERCIO E INDUSTRIA DE ALIMENTOS S. A.,AVENIDA ATTILIO FONTANA KM 04 S/Nº BAIRRO: PINHEIRINHO,Francisco Beltrao,Paraná,2518,PM (fresh meat of poultry and lagomorphs),BR,Brazil
+SHB COMERCIO E INDUSTRIA DE ALIMENTOS S. A.,AVENIDA ATTILIO FONTANA KM 04 S/Nº BAIRRO: PINHEIRINHO,Francisco Beltrao,Paraná,2518,PM (fresh meat of poultry and lagomorphs),BR,Brazil
 SHB COMERCIO E INDUSTRIA DE ALIMENTOS S. A.,"ROD. BR 163, KM 597 - BAIRRO: SETOR INDUSTRIAL",Nova Mutum,Mato Grosso,4567,Poultry meat preparations,BR,Brazil
-Zanchetta Alimentos Ltda.,Rod SP - 129,Boituva,S?o Paulo,2758,Poultry meat preparations,BR,Brazil
+Zanchetta Alimentos Ltda.,Rod SP - 129,Boituva,São Paulo,2758,Poultry meat preparations,BR,Brazil
 Botsford Fisheries Ltd,.,Cap Pele,New Brunswick,1207,smoked fish,CA,Canada
 Corpesca S.A.,Avenida Arturo Prat s/n. Barrio Industrial sitio 32,Iquique,I Tarapaca,1101,"Flours, meals and pellets, CN 2301 and 230990",CL,Chile
 Faenadora San Vicente Ltda.,.,San Vicente De Tagua Tagua,VI Libertador General Bernardo O'Higgins,43318,Poultry meat preparations,CL,Chile
@@ -80,13 +80,13 @@ PINGYANG HUAXING LEATHER & PLASTIC CO LTD,"No.13 Nange Road Leather, Manufacturi
 "Shandong Changhua Industrial Development Co., Ltd.",.,Rizhao,Shandong,3700/02595,Surimi and products under CN 160420,CN,China
 "Shandong Haida Foods Co., Ltd.",.,Qiyuan City,Shangdong,3700/03089,Rabbit meat,CN,China
 9 MAR S.A. NUEVEMARSA,.,Chanduy,Santa Elena,6903,"heavy metals susceptible fish, molluscs, crustaceans",EC,Ecuador
-Fresh Fish Del Ecuador Cia. Ltda.,Km 4 ? Via Manta-San Mateo,Manta,Manabi,680,"heavy metals susceptible fish, molluscs, crustaceans",EC,Ecuador
+Fresh Fish Del Ecuador Cia. Ltda.,Km 4 ½ Via Manta-San Mateo,Manta,Manabi,680,"heavy metals susceptible fish, molluscs, crustaceans",EC,Ecuador
 Industria Conservera De La Pesca Cia. Ltda. (Incopes),"Av. 3era. Oeste 542, Mapasingue ",Guayaquil,Guayas,62,Prepared fish 1604,EC,Ecuador
 "Pescados, Camarones Y Mariscos S.A. DOCAPES",EL MALECON DE SANTA ROSA P.O. BOX 9631,Salinas,Guayas,197,"heavy metals susceptible fish, molluscs, crustaceans",EC,Ecuador
-PROTEINAS DE ECUADOR ECUAPROTEIN S.A.,Lotizaci?n Fincas Vacacionales Las Brisas  Solar 19,Duran,Guayas,PH - 3152,Unique Commodity Code Group for  23012000,EC,Ecuador
+PROTEINAS DE ECUADOR ECUAPROTEIN S.A.,Lotización Fincas Vacacionales Las Brisas  Solar 19,Duran,Guayas,PH - 3152,Unique Commodity Code Group for  23012000,EC,Ecuador
 Alandlouse Co. For Fish Processor,.,New Damiatta City,Domiatta,057.F.I,"heavy metals susceptible fish, molluscs, crustaceans",EG,Egypt
 ELMASREYA FOUNDATION FOR IMPORT & EXPORT,2nd Industrial Zone B2 - Piece C1 - Part C,10 Ramadan City,Sharkia,015.F.I,"heavy metals susceptible fish, molluscs, crustaceans",EG,Egypt
-M?kathon,BP 9433 Motu Uta,Papeete,?le du Vent,1025 PF,"FFP, excluding molluscs and crustaceans",PF,French Polynesia
+Mékathon,BP 9433 Motu Uta,Papeete,Île du Vent,1025 PF,"FFP, excluding molluscs and crustaceans",PF,French Polynesia
 Cipomaah Ent.,.,Ashaiman,Greater Accra,GS/SF/E105,Smoked FFP,GH,Ghana
 KPONE LOBSTER EXPORT CO. LTD,.,Kpone,Greater Accra,GS/SF/E006,heavy metal susceptible fish,GH,Ghana
 "Liwon Ent. Ltd., P.M.B.",.,Tema,Greater Accra,GSB/SF/E855,Smoked FFP,GH,Ghana
@@ -130,7 +130,7 @@ M/s. Coastal Aqua Private Limited,"1-164, Patharlagadda",Kakinada,Andhra Pradesh
 M/s. Kiefer Sea Foods,.,Tuticorin,Tamil Nadu,1842,"heavy metals susceptible fish, molluscs, crustaceans",IN,India
 M/s. Veerabhadra Exports Private Limited,"Survey No.116, Gurajanapalli, Karapa (Mandal), East Godavari District- 533 016",Kakinada,Andhra Pradesh,1847,FFP (fishery products),IN,India
 Mash International Pvt. Ltd.,"A-31, INDUSTRIAL AREA, BANTHER",Unnao,Uttar Pradesh,CAPEXIL/NR/PLANT REGISTRATION/BP/2010-2011/20,Dog chews,IN,India
-CV. Pasific Harvest,Jl Tratas N? 61,Banyuwangi,Jawa Timur,538.13.B/C,FFP (fishery products),ID,Indonesia
+CV. Pasific Harvest,Jl Tratas N° 61,Banyuwangi,Jawa Timur,538.13.B/C,FFP (fishery products),ID,Indonesia
 PT. Awindo Makmur Sejahtera,"Kawasan Perikanan Samudra Nizam Zachman , Jl. Cumi Raya No. 8 Muara Baru, Kel. Penjaringan North Jakarta",Jakarta,Jakarta,608.10.B,heavy metal susceptible fish,ID,Indonesia
 PT. Banyuwangi Cannery Indonesia,"JL. RAYA SITUBONDO KM 12,5 KETAPANG-BANYUWANGI",Banyuwangi,Jawa Timur,584.13.B/C,"FFP, excluding molluscs and crustaceans",ID,Indonesia
 PT. Bumi Menara Internusa,JL Margomulyo 4E Tandes,Surabaya,Jawa Timur,015.13.B/C,"FFP, excluding molluscs and crustaceans",ID,Indonesia
@@ -143,11 +143,11 @@ Zuf Globus Ltd.,"North Industrial Zone Building, 67 Kiryat Shmona 10200",Kiryat 
 Bukang,.,Cheongdo-Gun,Gyeongsangbuk-do,KORP-153,Smoked FFP,KR,"Korea, Republic Of"
 Sea Horse Corporation Sdn. Bhd.,.,Kuching,Sarawak,31,FFP (fishery products),MY,Malaysia
 Empacadora De Carnes De Fresnillo S.A De CV,"AVE. PLATEROS NO.708 ZACATECAS, FRESNILLO.  MEXICO",Fresnillo,Zacatecas ,E-42,"Horse meat, CN 0205",MX,Mexico
-BOURASS MOHAMED LARBI,PORT DE PECHE TANGER,Tanger,Tanger - T?touan - Al Hoceima,2152,FFP (fishery products),MA,Morocco
-El Le?n del Desierto III,.,T?mara,Rabat - Sal? - K?nitra,3438,FFP (fishery products),MA,Morocco
-Gel Fish,BP 52 Port de p?che La?youne,La?youne,La?youne-Sakia El Hamra,2604,FFP (fishery products),MA,Morocco
-Nayat (Tanpeche),.,Tanger,Tanger - T?touan - Al Hoceima,SO 2104,"Shrimps, CN 0306",MA,Morocco
-Pesca Gharb,.,Mehdia,Rabat - Sal? - K?nitra,3287,Sulphites group: crustaceans,MA,Morocco
+BOURASS MOHAMED LARBI,PORT DE PECHE TANGER,Tanger,Tanger - Tétouan - Al Hoceima,2152,FFP (fishery products),MA,Morocco
+El León del Desierto III,.,Témara,Rabat - Salé - Kénitra,3438,FFP (fishery products),MA,Morocco
+Gel Fish,BP 52 Port de pêche Laâyoune,Laâyoune,Laâyoune-Sakia El Hamra,2604,FFP (fishery products),MA,Morocco
+Nayat (Tanpeche),.,Tanger,Tanger - Tétouan - Al Hoceima,SO 2104,"Shrimps, CN 0306",MA,Morocco
+Pesca Gharb,.,Mehdia,Rabat - Salé - Kénitra,3287,Sulphites group: crustaceans,MA,Morocco
 Sam-Pam,"19, bd al aaqaba,quartier industriel",Essaouira,Marrakech - Safi,2833,"Fish, fresh/chilled, CN 0302",MA,Morocco
 Sicogetram,.,Agadir,Souss - Massa,3976,FFP (fishery products),MA,Morocco
 Tajmid Fish,ZI Moulay Rachid Rue 3 Lot 124 Casablanca,Casablanca,Grand Casablanca - Settat,3746,heavy metal susceptible fish,MA,Morocco
@@ -183,27 +183,27 @@ RKC TANNERY COMPANY LIMITED,"339/1 MOO 2, PUTTHARAKSA ROAD, TAIBAN",Muang,Samut 
 "WINNER STORE Co., Ltd","339/3 M.2 Puttharaksa Rd., Taiban, Muang Samutprakarn",Muang,Samut Prakan,VCN.117,Unique Commodity Code Group for  4205,TH,Thailand
 Complexe Frigorifique El Mustapha,.,Teboulba,Monastir,618,"Shrimps, CN 0306",TN,Tunisia
 Golden Fish,"Route de Sidi Salem, Km 4, CP 3000",Sfax,Sfax,412,"heavy metals susceptible fish, molluscs, crustaceans",TN,Tunisia
-Jalta Export,"Port de p?che, Zarzouna, CP 7021",Zarzouna,Bizerte,203,FFP (fishery products),TN,Tunisia
+Jalta Export,"Port de pêche, Zarzouna, CP 7021",Zarzouna,Bizerte,203,FFP (fishery products),TN,Tunisia
 M. A. Trad,.,Port De Zarzouna,Bizerte,P.U 200,LBM (live bivalve molluscs),TN,Tunisia
 Maristar,.,Gargour,Sfax,PU 401,LBM (live bivalve molluscs),TN,Tunisia
-Mer Bleu Mahr?s,.,Mahres,Sfax,PU 409,LBM (live bivalve molluscs),TN,Tunisia
+Mer Bleu Mahrès,.,Mahres,Sfax,PU 409,LBM (live bivalve molluscs),TN,Tunisia
 Mer Bleue Tapes,.,Smara,Sfax,PU 405,LBM (live bivalve molluscs),TN,Tunisia
 Mer Bleue Tapes,.,Smara,Sfax,PU 405,LBM (live bivalve molluscs),TN,Tunisia
-Mohamed Aoundi,"Port de  p?che, Zarzouna, CP 7021",Zarzouna,Bizerte,201,"heavy metals susceptible fish, molluscs, crustaceans",TN,Tunisia
+Mohamed Aoundi,"Port de  pêche, Zarzouna, CP 7021",Zarzouna,Bizerte,201,"heavy metals susceptible fish, molluscs, crustaceans",TN,Tunisia
 S.D.T.,"Zone Industrielle, CP 8090",Kelibia,Nabeul,326,"FFP, excluding molluscs and crustaceans",TN,Tunisia
-St? Cap Langouste,.,Zarzouna,Bizerte,253,heavy metal susceptible fish,TN,Tunisia
-St? Trad del Produits de la Mer,.,Bizerte,Bizerte,205,"heavy metals susceptible fish, molluscs, crustaceans",TN,Tunisia
-Akivamar Su ?r?nleri San. Ve Tic. Ltd. Sti.,.,Lapseki,Canakkale,TR 17 60 516,LBM (live bivalve molluscs),TR,Turkey
-Artur Balik?ilik Ltd. Sti. Su ?r?nleri Dezenfekte ve Aritma Tesisleri,.,Ayvalik,Balikesir,TR 10 60 205,LBM (live bivalve molluscs),TR,Turkey
+Sté Cap Langouste,.,Zarzouna,Bizerte,253,heavy metal susceptible fish,TN,Tunisia
+Sté Trad del Produits de la Mer,.,Bizerte,Bizerte,205,"heavy metals susceptible fish, molluscs, crustaceans",TN,Tunisia
+Akivamar Su Ürünleri San. Ve Tic. Ltd. Sti.,.,Lapseki,Canakkale,TR 17 60 516,LBM (live bivalve molluscs),TR,Turkey
+Artur Balikçilik Ltd. Sti. Su Ürünleri Dezenfekte ve Aritma Tesisleri,.,Ayvalik,Balikesir,TR 10 60 205,LBM (live bivalve molluscs),TR,Turkey
 Dibo G?da Ve Tekstil San.Tic.Ltd.?ti. Yem ??letmesi,Central street,Istambul,Istanbul,? TR-3400099,Dog chews,TR,Turkey
-Kiris Gida Maddeleri Su ?r?nleri Sanayi Ve Ticaret Anonim Sirketi,.,Torbali,Izmir,TR 35-0568,Sulphites group: crustaceans,TR,Turkey
+Kiris Gida Maddeleri Su Ürünleri Sanayi Ve Ticaret Anonim Sirketi,.,Torbali,Izmir,TR 35-0568,Sulphites group: crustaceans,TR,Turkey
 "Zeus Packing, Inc.",.,Gloucester,Massachusetts,3003920119,FFP (fishery products),US,United States
-FRIGORIFICO SARUBBI (SIRSIL S.A),Coronel Ra?z 2764,Montevideo,Montevideo,85,"Bovine meat, fresh",UY,Uruguay
+FRIGORIFICO SARUBBI (SIRSIL S.A),Coronel Raíz 2764,Montevideo,Montevideo,85,"Bovine meat, fresh",UY,Uruguay
 C.A. PROCESADORA PROPESCA,"AV. 5 PPAL. SAN FRANCISCO EL BAJO No 260, MUNICIPIO SAN FRANCISCO",San Francisco,Zulia,SPES-140,Sulphites group: crustaceans,VE,Venezuela
 BAHAI JSC,"Lot A9-A11, Hoa Hiep industrial zone, Dong Hoa district, Phu Yen province",Dong Hoa,Phu Yen,DL 198,"FFP, excluding molluscs and crustaceans",VN,Viet Nam
 Cadovimex Seafood Import Export And Processing Joint Stock Company (Cadovimex - Vietnam),.,Phu Tan,Ca Mau,DL 72,"heavy metals susceptible fish, molluscs, crustaceans",VN,Viet Nam
 Canning Factory - Special Aquatic Products Joint Stock Company (SEASPIMEX - VIETNAM),.,Binh Chanh District,Ho Chi Minh City,DH 137,FFP (fishery products),VN,Viet Nam
-Fatifish Company Limited (FATIFISH Co. Ltd),"Lot B3 rd n? 2, My Hiep industrial zone, My Hiep ward, Cao Lanh district, Dong Thap province",Cao Lanh,Dong Thap,DL 704,FFP (fishery products),VN,Viet Nam
+Fatifish Company Limited (FATIFISH Co. Ltd),"Lot B3 rd n° 2, My Hiep industrial zone, My Hiep ward, Cao Lanh district, Dong Thap province",Cao Lanh,Dong Thap,DL 704,FFP (fishery products),VN,Viet Nam
 "HAI SON FOODS CO.,LTD",.,Nha Trang,Khanh Hoa,DL 257,heavy metal susceptible fish,VN,Viet Nam
 Hai Vuong Company Limited (HAVUCO),"Lot B, road No.1, Suoi Dau industrial zone, Cam lam district, Khanh Hoa province",Cam Lam,Khanh Hoa,DL 318,Fresh tuna,VN,Viet Nam
 "Hong Ngoc Seafood Co.,Ltd","Lot B3, Hoa Hiep industrial zone",Dong Hoa,Phu Yen,DL 609,"heavy metals susceptible fish, molluscs, crustaceans",VN,Viet Nam
